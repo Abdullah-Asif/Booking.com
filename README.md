@@ -10,4 +10,4 @@ I use here :
 * Authentication & Authorization
 * EF core
 * Repository & Unit Of work
-* SOLID princinples
+* SOLID principles
