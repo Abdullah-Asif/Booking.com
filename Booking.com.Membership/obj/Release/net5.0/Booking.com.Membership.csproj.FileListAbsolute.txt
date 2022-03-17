@@ -1,0 +1,12 @@
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\bin\Release\net5.0\Booking.com.Membership.deps.json
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\bin\Release\net5.0\Booking.com.Membership.dll
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\bin\Release\net5.0\ref\Booking.com.Membership.dll
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\bin\Release\net5.0\Booking.com.Membership.pdb
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\obj\Release\net5.0\Booking.com.Membership.csproj.AssemblyReference.cache
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\obj\Release\net5.0\Booking.com.Membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\obj\Release\net5.0\Booking.com.Membership.AssemblyInfoInputs.cache
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\obj\Release\net5.0\Booking.com.Membership.AssemblyInfo.cs
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\obj\Release\net5.0\Booking.com.Membership.csproj.CoreCompileInputs.cache
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\obj\Release\net5.0\Booking.com.Membership.dll
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\obj\Release\net5.0\ref\Booking.com.Membership.dll
+D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Membership\obj\Release\net5.0\Booking.com.Membership.pdb

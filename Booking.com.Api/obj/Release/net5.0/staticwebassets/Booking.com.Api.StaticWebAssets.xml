@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\asifa\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.12\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/Booking.com.Web" Path="D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Web\wwwroot\" />
+</StaticWebAssets>

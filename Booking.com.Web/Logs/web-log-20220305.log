@@ -1,0 +1,26 @@
+2022-03-05 08:40:38.509 +06:00 [INF] Application Starting up
+2022-03-05 11:16:43.606 +06:00 [INF] Application Starting up
+2022-03-05 16:33:33.996 +06:00 [INF] Application Starting up
+2022-03-05 16:36:59.267 +06:00 [ERR] Failed to Create Ticket
+System.InvalidOperationException: Same Ticket from same address is already exist
+   at Booking.com.Flights.Services.TicketService.CreateTicket(Ticket ticket) in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Flights\Services\TicketService.cs:line 30
+   at Booking.com.Web.Areas.Admin.Models.CreateTicketModel.CreateTicket() in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Web\Areas\Admin\Models\Ticket\CreateTicketModel.cs:line 36
+   at Booking.com.Web.Areas.Admin.Controllers.TicketController.Create(CreateTicketModel model) in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Web\Areas\Admin\Controllers\TicketController.cs:line 35
+2022-03-05 16:37:20.784 +06:00 [ERR] Failed to Create Ticket
+System.InvalidOperationException: Same Ticket from same address is already exist
+   at Booking.com.Flights.Services.TicketService.CreateTicket(Ticket ticket) in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Flights\Services\TicketService.cs:line 30
+   at Booking.com.Web.Areas.Admin.Models.CreateTicketModel.CreateTicket() in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Web\Areas\Admin\Models\Ticket\CreateTicketModel.cs:line 36
+   at Booking.com.Web.Areas.Admin.Controllers.TicketController.Create(CreateTicketModel model) in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Web\Areas\Admin\Controllers\TicketController.cs:line 35
+2022-03-05 16:37:46.047 +06:00 [ERR] Failed to Create Ticket
+System.InvalidOperationException: Same Ticket from same address is already exist
+   at Booking.com.Flights.Services.TicketService.CreateTicket(Ticket ticket) in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Flights\Services\TicketService.cs:line 30
+   at Booking.com.Web.Areas.Admin.Models.CreateTicketModel.CreateTicket() in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Web\Areas\Admin\Models\Ticket\CreateTicketModel.cs:line 36
+   at Booking.com.Web.Areas.Admin.Controllers.TicketController.Create(CreateTicketModel model) in D:\Code\AspNET\.Net\ASP.NET\Booking.com\Booking.com\Booking.com.Web\Areas\Admin\Controllers\TicketController.cs:line 35
+2022-03-05 17:27:01.749 +06:00 [INF] Application Starting up
+2022-03-05 17:27:21.553 +06:00 [INF] User logged in.
+2022-03-05 17:27:31.431 +06:00 [INF] User logged in.
+2022-03-05 17:27:37.274 +06:00 [INF] User logged out.
+2022-03-05 17:27:45.974 +06:00 [INF] User logged in.
+2022-03-05 17:27:47.666 +06:00 [INF] User logged out.
+2022-03-05 17:27:52.642 +06:00 [WRN] Invalid password for user.
+2022-03-05 17:27:52.643 +06:00 [WRN] User failed to provide the correct password.
