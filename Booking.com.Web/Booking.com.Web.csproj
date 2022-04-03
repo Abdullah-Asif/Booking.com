@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Booking.com.Flights\Booking.com.Flights.csproj" />
-    <ProjectReference Include="..\Booking.com.Infrastructure\Booking.com.Infrastructure.csproj" />
     <ProjectReference Include="..\Booking.com.Membership\Booking.com.Membership.csproj" />
   </ItemGroup>
 

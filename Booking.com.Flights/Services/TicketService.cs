@@ -59,7 +59,8 @@ namespace Booking.com.Flights.Services
             int pageIndex, int pageSize, string searchText, string sortText)
         {
             var ticketsData = _flightsUnitOfWork.TicketRepository.GetDynamic(
-                string.IsNullOrWhiteSpace(searchText) ? null : x => x.Destination.Contains(searchText),
+                string.IsNullOrWhiteSpace(searchText) ? null : x => x.Destination.Contains(searchText)
+                || x.CustomerId.ToString().Contains(searchText),
                 sortText, string.Empty, pageIndex, pageSize);
 
             var resultData = (from ticket in ticketsData.data

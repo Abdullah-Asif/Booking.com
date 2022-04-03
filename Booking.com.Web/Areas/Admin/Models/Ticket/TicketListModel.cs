@@ -5,7 +5,7 @@ using Autofac;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Booking.com.Infrastructure;
+using Booking.com.Web.Models;
 
 namespace Booking.com.Web.Areas.Admin.Models
 {

@@ -1,4 +1,4 @@
-﻿using Booking.com.Infrastructure;
+﻿using Booking.com.Web.Models;
 using Booking.com.Web.Areas.Admin.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

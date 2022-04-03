@@ -5,7 +5,7 @@ using Autofac;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Booking.com.Infrastructure;
+using Booking.com.Web.Models;
 
 namespace Booking.com.Web.Areas.Admin.Models
 {
@@ -30,7 +30,7 @@ namespace Booking.com.Web.Areas.Admin.Models
                dataTablesModel.PageIndex,
                dataTablesModel.PageSize,
                dataTablesModel.SearchText,
-               dataTablesModel.GetSortText(new string[] { "Name", "Age", "Adress" }));
+               dataTablesModel.GetSortText(new string[] { "Id", "Name", "Age", "Adress" }));
 
             return new
             {
@@ -39,6 +39,7 @@ namespace Booking.com.Web.Areas.Admin.Models
                 data = (from record in data.records
                         select new string[]
                         {
+                            record.Id.ToString(),
                             record.Name.ToString(),
                             record.Age.ToString(),
                             record.Address.ToString(),
