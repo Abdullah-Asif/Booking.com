@@ -6,7 +6,7 @@ Project Tools & feature
 
 * Authentication, Authorization
 * Logger (Serilog)
-* Solid Principle
+* Solid Principles
 * Dependency injection (Autofac, Automapper)
 * Applied design pattern ( Repository, Unit Of Work)
 * Used Three tier architecture
