@@ -1,4 +1,6 @@
-﻿using Booking.com.Web.Models;
+﻿using Booking.com.Flights.Repositories;
+using Booking.com.Flights.Services;
+using Booking.com.Web.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -13,7 +15,6 @@ namespace Booking.com.Web.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
