@@ -4,10 +4,13 @@ This is a project where a user can create his profile which means his customer p
 
 Project Tools & feature
 
+* ASP.NET Core 
+* Ef Core
 * Authentication, Authorization
 * Logger (Serilog)
 * Solid Principles
-* Dependency injection (Autofac, Automapper)
+* Dependency injection ( Autofact )
+* Automapper
 * Applied design pattern ( Repository, Unit Of Work)
 * Used Three tier architecture
-* Ef Core
+
